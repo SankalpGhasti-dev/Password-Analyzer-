@@ -76,12 +76,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Sankalp Ghasti**
 - GitHub: [@SankalpGhasti-dev](https://github.com/SankalpGhasti-dev)
-
-## Acknowledgments
-
-- Thanks to all contributors who help improve password security awareness
-- Inspired by modern password security best practices
-
----
-
-⭐ Star this repository if you find it helpful!
